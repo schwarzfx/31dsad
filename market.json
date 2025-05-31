@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "sword",
+      "name": "Efsanevi Kılıç",
+      "price": 500
+    },
+    {
+      "id": "shield",
+      "name": "Çelik Kalkan",
+      "price": 300
+    },
+    {
+      "id": "potion",
+      "name": "Can İksiri",
+      "price": 100
+    },
+    {
+      "id": "cape",
+      "name": "Büyülü Pelerin",
+      "price": 400
+    },
+    {
+      "id": "ring",
+      "name": "Güç Yüzüğü",
+      "price": 600
+    },
+    {
+      "id": "boots",
+      "name": "Hız Botları",
+      "price": 250
+    },
+    {
+      "id": "helmet",
+      "name": "Savaş Miğferi",
+      "price": 350
+    },
+    {
+      "id": "amulet",
+      "name": "Tılsımlı Kolye",
+      "price": 450
+    },
+    {
+      "id": "boost",
+      "name": "XP Boost",
+      "price": 1000
+    },
+    {
+      "id": "pet",
+      "name": "Ejderha Yavrusu",
+      "price": 2000
+    }
+  ],
+  "inventories": {}
+  }
