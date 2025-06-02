@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "Schwazecim, Ekonomi Botu",
+  "description": "Schwarz, Ekonomi Botu",
   "main": "schwarz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
